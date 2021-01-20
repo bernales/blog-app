@@ -1,5 +1,5 @@
 # blog-app
-This blog application is built with Django that allows users to create, edit, and delete posts. The homepage will list all blog posts and there will be a dedicated detail page for each individual blog post. This app includes Bootstrap and CSS for styling. The app also includes a user authentication system.
+This blog application is built with Django that allows users to create, edit, and delete posts. The homepage will list all blog posts and there will be a dedicated detail page for each individual blog post. This app includes Bootstrap and CSS for styling. Lastly, the app uses the built-in Django authentication system.
 
 
 ## Requirements
